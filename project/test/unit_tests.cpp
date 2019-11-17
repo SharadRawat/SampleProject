@@ -4,7 +4,7 @@
 
 #include "gtest/gtest.h"
 
-TEST(UnitTesting, Size_GivenNull,ExpectZeroSize)
+TEST(UnitTesting, Size_GivenNull_ExpectZeroSize)
 {   
     // Given
     std::vector<double> some_vec;
