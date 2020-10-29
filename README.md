@@ -3,4 +3,4 @@
 C++ 11
 
 
-This is sample project to check if the toolchain is in working order
+This is sample project to check if the toolchain is in working order.
